@@ -1,0 +1,11 @@
+Source code for "Sine City"
+A JavaScript 8K intro
+
+On Pouet: http://www.pouet.net/prod.php?which=64233
+
+Notes:
+	* It is likely not to work on your end.
+	* Tested on Linux using Chromium and Firefox with a NVidia GPU
+	* Known to work on some Windows boxes w/ native GL enabled
+	* The "original" version is not the code that was shown at DemoJS,
+		I adjusted quite a few things in the final, packed version.

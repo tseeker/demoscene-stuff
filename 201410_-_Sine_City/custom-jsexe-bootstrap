@@ -1,0 +1,2 @@
+// in case I need it again
+C=V.getContext('2d');for(C.drawImage(this,0,_='');$--;(A=C.getImageData($%X,$/X,1,1).data[0])&&(_+=String.fromCharCode(A)));(1,eval)(_)
